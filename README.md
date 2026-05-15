@@ -7,6 +7,8 @@ At Epic Games, I shipped a Monte Carlo forecasting tool that became the #1 downl
 ## What I'm building
 
 - **[org-sim](https://github.com/ntoneff/org-sim)** --- Agent-based value stream simulator modeling how work flows through organizations. Built with Python, Mesa, and NetworkX. Demonstrates system dynamics, bottleneck identification, and Theory of Constraints principles through interactive simulation.
+- **[game-one](https://github.com/ntoneff/game-one)** --- From-scratch 2D strategy game inspired by Lords of Magic (1997). Built with Python and pygame-ce.
+- **[vi-dashboard](https://github.com/ntoneff/vi-dashboard)** --- Personal AI GTD assistant with a Mass Effect VI personality. Connects Claude Agent SDK to an Obsidian vault for voice-interactive task management.
 
 ## How I work
 
